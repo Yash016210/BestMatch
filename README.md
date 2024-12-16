@@ -58,17 +58,17 @@ Switch between categories with ease:
 
 ## 🌟 **Demo Preview**  
 
-![Demo 1](https://i.postimg.cc/wj5Rfhmn/IMG1.png)  
+![Demo 1](https://i.postimg.cc/CLnQq6Mp/Demos6.png)  
 
-![Demo 2](https://i.postimg.cc/wBfX2XKg/IMG3.png)  
+![Demo 2](https://i.postimg.cc/YSHZkfHK/Demos5.png)  
 
-![Demo 3](https://i.postimg.cc/3x9mrXxm/IMG7.png) 
+![Demo 3](https://i.postimg.cc/RZfyjp2L/Demos4.png) 
 
-![Demo 4](https://i.postimg.cc/s2DP5nNT/IMG4.png)  
+![Demo 4](https://i.postimg.cc/PqQcqpXL/Demos3.png)  
 
-![Demo 5](https://i.postimg.cc/zXCT6Zmd/IMG5.png)  
+![Demo 5](https://i.postimg.cc/KjRsQ0nL/Demos2.png)  
 
-![Demo 6](https://i.postimg.cc/dVJGKHwJ/IMG6.png)   
+![Demo 6](https://i.postimg.cc/hPhq3rS2/Demos1.png)   
 
 ---
 
